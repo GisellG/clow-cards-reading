@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "The cloud",
+        "meaning": "Your decisions decides the outcome. (Choose your decisions carefully)",
+        "tarotSubstitute": "Ace of Spades",
+        "message": "Your ability to make decisions wisely is questioned. Relax and open your heart before judging a situation. If you make the best decision, your heart will be at ease.",
+        "warning": "Your heart determines whether your luck will rise or fall. Happy and optimistic people attract other people, and good luck is sure to follow.",
+        "guardian": "Moon",
+        "attribute": "Water",
+        "keywords": ["carefree", "optimistic", "unworried"]
+    },
+    {
+        "id": 2,
+        "name": "The create",
+        "meaning": "Abundant passion, the blooming of passion.",
+        "tarotSubstitute": "2 of Spades",
+        "message": "When you express your thoughts and emotions, you fell at ease. You will experience increased creativity in the fields of art and music. Inspiration and woderfull ideas will come as result of focusing in these two fields.",
+        "warning": "Don't allow yourself to be restricted by traditional concepts or rules. Follow your intuition and act accordingly -the posibility of unexpected discoveries or encounters will be high.",
+        "guardian": "Sun",
+        "attribute": "Light",
+        "keywords": ["individuality", "creation", "creativity", "intuition"]
+    }
+]
