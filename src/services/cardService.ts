@@ -1,11 +1,12 @@
-import { ClowCards } from '../types';
-import cardData from '../utils/clow-cards.json';
+import { ClowCards } from "../types";
+import CardModel from "../models/Card";
 
-const cards: Array<ClowCards> = cardData as Array<ClowCards>;
+export const getCards = async (): Promise<any> => {
+    const cards: Array<ClowCards> = await CardModel.find();
+    return cards
+}
 
-export const getCards = (): ClowCards[] => cards;
-
-export const getById = (id: number): ClowCards | undefined => {
-    const card = cards.find(c => c.id === id)
-    return card;
-};
+export const getById = async (id: any): Promise<any> => {
+    const cardById = await CardModel.findById(id);
+    return cardById;
+}
