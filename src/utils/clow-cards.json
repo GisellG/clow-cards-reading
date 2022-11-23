@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "name": "The cloud",
         "meaning": "Your decisions decides the outcome. (Choose your decisions carefully)",
         "tarotSubstitute": "Ace of Spades",
@@ -11,7 +10,6 @@
         "keywords": ["carefree", "optimistic", "unworried"]
     },
     {
-        "id": 2,
         "name": "The create",
         "meaning": "Abundant passion, the blooming of passion.",
         "tarotSubstitute": "2 of Spades",
@@ -22,7 +20,6 @@
         "keywords": ["individuality", "creation", "creativity", "intuition"]
     },
     {
-        "id": 3,
         "name": "The dark",
         "meaning": "Let nature take its course, as always.",
         "tarotSubstitute": "3 of Spades",
@@ -33,7 +30,6 @@
         "keywords": ["inner thoughts and feelings", "the subconscious"]
     },
     {
-        "id": 4,
         "name": "The firey",
         "meaning": "Strong beliefs. Overcoming obstacles.",
         "tarotSubstitute": "4 of Spades",
@@ -44,7 +40,6 @@
         "keywords": ["confidence", "determination"]
     },
     {
-        "id": 5,
         "name": "The ligth",
         "meaning": "Be a leader. Your prospect for the distant future.",
         "tarotSubstitute": "5 of Spades",
@@ -55,7 +50,6 @@
         "keywords": ["Hope", "renewal", "positivity"]
     },
     {
-        "id": 6,
         "name": "The mist",
         "meaning": "Acertain the situation, and decide which direction you will take.",
         "tarotSubstitute": "6 of Spades",
@@ -66,7 +60,6 @@
         "keywords": ["Reconsider", "uncertainty", "lack of direction"]
     },
     {
-        "id": 7,
         "name": "The rain",
         "meaning": "Finally, things turn for the better.",
         "tarotSubstitute": "7 of Spades",
@@ -77,7 +70,6 @@
         "keywords": ["Little problems", "temporary pessimism"]
     },
     {
-        "id": 8,
         "name": "The snow",
         "meaning": "A new beginning. Peace. Purity.",
         "tarotSubstitute": "8 of Spades",
@@ -88,7 +80,6 @@
         "keywords": ["Peacefulness", "purity", "potential"]
     },
     {
-        "id": 9,
         "name": "The storm",
         "meaning": "Intense emotions. Frustration being reduced.",
         "tarotSubstitute": "9 of Spades",
@@ -99,7 +90,6 @@
         "keywords": ["Suppressed emotions", "lack of communication"]
     },
     {
-        "id": 10,
         "name": "The thunder",
         "meaning": "Good luck will come your way if you don't lose yourself.",
         "tarotSubstitute": "10 of Spades",
@@ -110,7 +100,6 @@
         "keywords": ["sudden", "drastic changes", "upheaval"]
     },
     {
-        "id": 11,
         "name": "The watery",
         "meaning": "Cooperation. The ability to open people's minds.",
         "tarotSubstitute": "Jack of Spades",
@@ -121,7 +110,6 @@
         "keywords": ["Emotion", "understanding", "intuition"]
     },
     {
-        "id": 12,
         "name": "The wave",
         "meaning": "A flexible attitude will bring good fortune.",
         "tarotSubstitute": "Queen of Spades",
@@ -132,7 +120,6 @@
         "keywords": ["Adaptability", "flexibility", "compromise"]
     },
     {
-        "id": 13,
         "name": "The windy",
         "meaning": "Hints of progress, completion, and expectation.",
         "tarotSubstitute": "King of Spades",
@@ -143,7 +130,6 @@
         "keywords": ["Truth", "honesty", "fairness", "law"]
     },
     {
-        "id": 14,
         "name": "The big",
         "meaning": "Big possibility and ability. An increase of the thirst for knowledge.",
         "tarotSubstitute": "Ace of Hearts",
@@ -154,7 +140,6 @@
         "keywords": ["Journey", "moving forward", "attainment"]
     },
     {
-        "id": 15,
         "name": "The dream",
         "meaning": "A chance to get to know oneself. Development period of the subconscious.",
         "tarotSubstitute": "2 of Hearts",
@@ -165,7 +150,6 @@
         "keywords": ["Subconscious", "dream world", "premonition"]
     },
     {
-        "id": 16,
         "name": "The glow",
         "meaning": "Signs of good luck.",
         "tarotSubstitute": "3 of Hearts",
@@ -176,7 +160,6 @@
         "keywords": ["Good luck", "simple pleasures", "comfort"]
     },
     {
-        "id": 17,
         "name": "The illusion",
         "meaning": "The desire to escape from reality.",
         "tarotSubstitute": "4 of Hearts",
@@ -187,7 +170,6 @@
         "keywords": ["Escapist", "reality", "reality"]
     },
     {
-        "id": 18,
         "name": "The little",
         "meaning": "A small but meaningful transformation period.",
         "tarotSubstitute": "5 of Hearts",
@@ -198,7 +180,6 @@
         "keywords": ["Perseverance", "accumulation", "baby steps"]
     },
     {
-        "id": 19,
         "name": "The maze",
         "meaning": "Losing confidence. Confusion.",
         "tarotSubstitute": "6 of Hearts",
@@ -209,7 +190,6 @@
         "keywords": ["Confusion", "lost", "uncertainty"]
     },
     {
-        "id": 20,
         "name": "The power",
         "meaning": "A wish fulfilled. Development.",
         "tarotSubstitute": "7 of Hearts",
@@ -220,7 +200,6 @@
         "keywords": ["Fulfillment", "new developments"]
     },
     {
-        "id": 21,
         "name": "The silent",
         "meaning": "Forethoughtfulness. A time for recharging.",
         "tarotSubstitute": "8 of Hearts",
@@ -231,7 +210,6 @@
         "keywords": ["Introspection", "observation"]
     },
     {
-        "id": 22,
         "name": "The song",
         "meaning": "Joy, harmony. The energy of healing.",
         "tarotSubstitute": "9 of Hearts",
@@ -242,7 +220,6 @@
         "keywords": ["Expressing self", "harmony", "shared joy"]
     },
     {
-        "id": 23,
         "name": "The sweet",
         "meaning": "New Love. Popularity. Appearance of dependent mind.",
         "tarotSubstitute": "10 of Hearts",
@@ -253,7 +230,6 @@
         "keywords": ["Kindness", "camaraderie", "popularity"]
     },
     {
-        "id": 24,
         "name": "The time",
         "meaning": "Every experience improves you. Independence.",
         "tarotSubstitute": "Jack of Hearts",
@@ -264,7 +240,6 @@
         "keywords": ["Nostalgia", "time passing", "existence"]
     },
     {
-        "id": 25,
         "name": "The twin",
         "meaning": "The best partner's appearance.",
         "tarotSubstitute": "Queen of Hearts",
@@ -273,5 +248,285 @@
         "guardian": "Sun",
         "attribute": "Fire",
         "keywords": ["Teamwork", "contribution"]
+    },
+    {
+        "name": "The voice",
+        "meaning": "Desire to make friends; relationships properly resulting in feelings.",
+        "tarotSubstitute": "King of Hearts",
+        "message": "You seem fatigued due to neighborliness. Yet, do your true feelings take on the opposite meaning during communication? First, call out the other person with a greeting.",
+        "warning": "Your luck will abate if you are not able to greet your friends correctrly. bright greetings are the key to good luck.",
+        "guardian": "Moon",
+        "attribute": "Wind",
+        "keywords": ["Greetings", "communication", "misunderstanding"]
+    },
+    {
+        "name": "The change",
+        "meaning": "Change of heart. Waste",
+        "tarotSubstitute": "Ace of Clubs",
+        "message": "Lack of concentration. You are envious of others and view things and goals in this negative way of thinking. This disturbing mood makes you do useless shoping.",
+        "warning": "A change for oneself will result in refreshment. It would be good if you tried playing sports or redecorating your room.",
+        "guardian": "Moon",
+        "attribute": "Dark",
+        "keywords": ["Change of heart", "point of view"]
+    },
+    {
+        "name": "The dash",
+        "meaning": "The instantaneous power of victory in your hand. An internal fight with yourself.",
+        "tarotSubstitute": "2 of Clubs",
+        "message": "The goal is just ahead. Spiritual strength is tried as a result of the internal fight with yourself. Keep running as fast as you can, even if it is a little painful. Afterwards, happiness awaits.",
+        "warning": "You'll go back to the starting point if you give up now. Precious natural luck fades away when suffering heavy losses.",
+        "guardian": "Moon",
+        "attribute": "Wind",
+        "keywords": ["Rushing ahead", "internal conflict"]
+    },
+    {
+        "name": "The erase",
+        "meaning": "Stagnation of luck. A warning to wait.",
+        "tarotSubstitute": "3 of Clubs",
+        "message": "Are there any expenses that were planned out or did you just spend recklessly on desires? Even if a plan fails, continue making steady efforts and wait for the next chance.",
+        "warning": "The successful person approaches you in time of need. Humans are resilient and equiped with profoundness.",
+        "guardian": "Moon",
+        "attribute": "Dark",
+        "keywords": ["Stagnation", "removing the unneeded"]
+    },
+    {
+        "name": "The fight",
+        "meaning": "An omen to the big turning point.",
+        "tarotSubstitute": "4 of Clubs",
+        "message": "You'll be thanked for taking the lead without hesitating, and for going through a lot of trouble people. Physical strength and will power are enhanced, and a current misfortune can be fixed.",
+        "warning": "Don't built up on momentum, or you will make a stupid error in judgment. An elaborate preliminary investigation is necessary. Listening to the advice of an elder is plus.",
+        "guardian": "Sun",
+        "attribute": "Fire",
+        "keywords": ["Leader", "standing up for oneself"]
+    },
+    {
+        "name": "The float",
+        "meaning": "Liberation from restreint. Freedom",
+        "tarotSubstitute": "5 of Clubs",
+        "message": "If you make a steady effort, you will freed from all preasures. When you don't make a steady effort, it is a sign of pending troubles. Be carefull to pay attention to personal realtionships, including romantic ones.",
+        "warning": "When it comes to decisions concerning financial problems and work, you should follow an elder's advice instead of making arbitrary decision.",
+        "guardian": "Moon",
+        "attribute": "Wind",
+        "keywords": ["Above problems", "objective", "liberation"]
+    },
+    {
+        "name": "The fly",
+        "meaning": "A challenge to leap, a chance.",
+        "tarotSubstitute": "6 of Clubs",
+        "message": "Development of human relations. Your fortune will be strengthened as well, and all progresses smoothly. Taking the challenge of qualifications examinations for auditions is recommended too. Keep a carefree action in mind, brightly, without withering.",
+        "warning": "Confidence and the economic fortune can be remarkably fostered by accomplishing work and favors when a friend asks for them.",
+        "guardian": "Moon",
+        "attribute": "Wind",
+        "keywords": ["Challenges", "chances", "overcoming"]
+    },
+    {
+        "name": "The freeze",
+        "meaning": "Establishment of basic power. It's ok to go at your own pace.",
+        "tarotSubstitute": "7 of Clubs",
+        "message": "There are also seasons in life. A time to growth would be like spring, and winter would be a time of gathering. Right now seems to be your charging period of winter. Do not spread yourself out too thin, just settle down slowly and work on things.",
+        "warning": "You must backpedal a bit in order to begin something new. In order to develop basic power, the fist priority is to continuously investigate and train.",
+        "guardian": "Moon",
+        "attribute": "Water",
+        "keywords": ["Slow and steady", "at own pace"]
+    },
+    {
+        "name": "The jump",
+        "meaning": "Loss of ability. The best condition.",
+        "tarotSubstitute": "8 of Clubs",
+        "message": "Original power can be demonstrated to your heart's content. Human charm is like a power-up. You will become busy both officially and privately, but will still be able to make enough time for adequate sleep.",
+        "warning": "Tasks at work may be demanded that are above your current ability, leading to confusion, but you can ride it out using wisdom and experience.",
+        "guardian": "Moon",
+        "attribute": "Wind",
+        "keywords": ["Finding new methods", "experience", "learning"]
+    },
+    {
+        "name": "The move",
+        "meaning": "Be careful about fidgety actions and remarks.",
+        "tarotSubstitute": "9 of Clubs",
+        "message": "Though it's not bad, your natural fortune is a bit off, timing-wise. The cause seems to be an impromptu remark and/or a whimsical action. Don't become a person who does nothing but overexaggerate.",
+        "warning": "Keep your promises. Communicate to the best of your ability. It's easy to become influenced by feelings, so think before you speak.",
+        "guardian": "Moon",
+        "attribute": "Wind",
+        "keywords": ["Think before speaking", "talking too much"]
+    },
+    {
+        "name": "The return",
+        "meaning": "The revival of a loser. Never give up!",
+        "tarotSubstitute": "10 of Clubs",
+        "message": "You will settle your regrets and the problem that you ran away from. The person who has been labeled as shy will slowly recover. Your natural fortune improves with a good decision.",
+        "warning": "Though you cannot turn back time, you can still change the present and the future with your own power.",
+        "guardian": "Sun",
+        "attribute": "Light",
+        "keywords": ["Second chances", "fixing mistakes"]
+    },
+    {
+        "name": "The shot",
+        "meaning": "Focus on the goal.",
+        "tarotSubstitute": "Jack of Clubs",
+        "message": "If you become greedy, you will fail. Ascertain why the goal is necessary. It is easy to become aggressive, but scolding yourself when you do will bring progress.",
+        "warning": "You might hurt the other party, even though you didn't mean any harm. If you notice this occurring, humbly apologize.",
+        "guardian": "Sun",
+        "attribute": "Fire",
+        "keywords": ["Aggressiveness", "focused on goal"]
+    },
+    {
+        "name": "The sleep",
+        "meaning": "Rest. A calm state of mind.",
+        "tarotSubstitute": "Queen of Clubs",
+        "message": "You are ordinary, but stable without a lot of trouble or fights. Spend every day in an honest, sincere attitude. If you get stuck in a couple of ruts, take a carefree hike--it will bring good luck.",
+        "warning": "Glib talk will lead to a pitfall. Be careful not to cross a dangerous bridge. (Metaphorically speaking)",
+        "guardian": "Moon",
+        "attribute": "Dark",
+        "keywords": ["Rest", "recuperation"]
+    },
+    {
+        "name": "The through",
+        "meaning": "The improvement of an unexpected situation.",
+        "tarotSubstitute": "King of Clubs",
+        "message": "The key to success is a change in perspective. When you change your way of life and thinking completely, it is very likely that your situation will improve for the better, and good luck will come your way. It is important to say 'Yes' and 'No' clearly.",
+        "warning": "Even if a strong rival appears, face each other without tricks, fairly. They might turn out to be an unexpected cooperator.",
+        "guardian": "Sun",
+        "attribute": "Fire",
+        "keywords": ["Perspective", "improvements"]
+    },
+    {
+        "name": "The arrow",
+        "meaning": "A surge of energy. Aggresiveness.",
+        "tarotSubstitute": "Ace of Diamonds",
+        "message": "Energy that can charge towards the goal. Achieving your goals and desires in the sortest amount of time in done by moving positively that usual.",
+        "warning": "It is importan to set a goal. Unnecesary trouble can be created when your are to greedy, so take care.",
+        "guardian": "Sun",
+        "attribute": "Fire",
+        "keywords": ["Energetic", "hitting the target"]
+    },
+    {
+        "name": "The bubbles",
+        "meaning": "Purification of emotions. When you break away from a vicious cycle.",
+        "tarotSubstitute": "2 of Diamonds",
+        "message": "Worries and problems can be beautifully cleaned. A solution will gradually rise if you can work with an obedient feeling without showing off.",
+        "warning": "A person who will support you appears, but it is bad to rely on only one person.",
+        "guardian": "Moon",
+        "attribute": "Water",
+        "keywords": ["Cleaning up", "purification"]
+    },
+    {
+        "name": "The earthy",
+        "meaning": "Source of life. Symbol of effort and acceptability.",
+        "tarotSubstitute": "3 of Diamonds",
+        "message": "Now is the time to focus on the foundation. What is important are the basics, and to not forget to make and effort. There is no immediate effect, but the result will eventually bring about an big chance to become productive.",
+        "warning": "Occasionally, a big heart can accept and stop everything. Nothing turns egocentric and there is no expected growth.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Practical", "structure", "foundation"]
+    },
+    {
+        "name": "The flower",
+        "meaning": "Results. Rewards. The chance of accomplishing a goal is high.",
+        "tarotSubstitute": "4 of Diamonds",
+        "message": "here's a chance that your current efforts will finally bloom and let you reach your goal. If you have self-confidence and positive feelings, all will open out towards the right direction.",
+        "warning": "Even if a small obstacle shows up, forget about it and don't get angry. Progress can be made with a smile.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Beauty", "rewards", "optimism"]
+    },
+    {
+        "name": "The flower",
+        "meaning": "Results. Rewards. The chance of accomplishing a goal is high.",
+        "tarotSubstitute": "4 of Diamonds",
+        "message": "Here's a chance that your current efforts will finally bloom and let you reach your goal. If you have self-confidence and positive feelings, all will open out towards the right direction.",
+        "warning": "Even if a small obstacle shows up, forget about it and don't get angry. Progress can be made with a smile.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Beauty", "rewards", "optimism"]
+    },
+    {
+        "name": "The libra",
+        "meaning": "Life, action, and adjusting the balance of ideas.",
+        "tarotSubstitute": "5 of Diamonds",
+        "message": "Using calm, fair judgment, it is possible to start choosing humble decisions. In addition, the matter that caused a loss in balance will return to the best state.",
+        "warning": "However, the best state cannot be obtained if you compare lies to the past. If you reflect, you can gradually restore your balance.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Balance", "truth", "fairness"]
+    },
+    {
+        "name": "The lock",
+        "meaning": "Intelligence. Inner awareness of the truth.",
+        "tarotSubstitute": "6 of Diamonds",
+        "message": "The door of truth can be opened and shut. I notice my own heart and can know the secret of another. However, it would be better to leave if alone for now.",
+        "warning": "A pleasant chat will lose trust, if it goes on too long. Be careful, because it is difficult to regain trust that is lost.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Secrets", "knowledge", "awareness"]
+    },
+    {
+        "name": "The loop",
+        "meaning": "Connection. Chance to step-up.",
+        "tarotSubstitute": "7 of Diamonds",
+        "message": "If there are sympathizing, gentle feelings, a lot of people and things begin to connect. Linked by a deep friendship, greater aid will likely be acquirable.",
+        "warning": "You will go round and round in circles if you can't develop any self-satisfaction. Bright, open feelings are important.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Perseverance", "going in a circle", "in a rut"]
+    },
+    {
+        "name": "The mirror",
+        "meaning": "A time in which you stare deeply at yourself.",
+        "tarotSubstitute": "8 of Diamonds",
+        "message": "Through the behavior of others, your merit and weak point can be found. It is often that the flaw of another person, especially when upset, will cause you to reflect upon yourself.",
+        "warning": "Once again, become modest and reflect on your actions. Renew yourself at once if you remember something you regret.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Reflection", "renewal"]
+    },
+    {
+        "name": "The sand",
+        "meaning": "The challenge to change without fear.",
+        "tarotSubstitute": "9 of Diamonds",
+        "message": "Time and a person's feelings change constantly, yet they are always in existence so there is no single point of view. Reconciliation with the friend or the lover is sure to go well too, if it is taken one step at a time.",
+        "warning": "Do you not notice the person who thinks you are important? They are actually surprisingly closer then you realize.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Shifting", "constant", "reconciliation"]
+    },
+    {
+        "name": "The shadow",
+        "meaning": "The unknown. The reason and solution of the problem.",
+        "tarotSubstitute": "10 of Diamonds",
+        "message": "In fact, the problem haunting you like a shadow is going to give you a message. Since it faces away from the front of the problem, the direction which should be followed probably will come into view.",
+        "warning": "When you always avoid poor and unpleasant things, you'll miss the turning point in the other side of the shadow.",
+        "guardian": "Sun",
+        "attribute": "Light",
+        "keywords": ["The unknown", "transformation", "change"]
+    },
+    {
+        "name": "The shield",
+        "meaning": "Protection. A defensive measure to maintain harmony.",
+        "tarotSubstitute": "Jack of Diamonds",
+        "message": "Even if a crisis is approaching, you have many people firmly defending you. You can obtain greater power in exchange for love and harmony in particular.",
+        "warning": "Don't forget the feeling of gratitude. When friends are in trouble do not hesitate to reach out to them.",
+        "guardian": "Sun",
+        "attribute": "Earth",
+        "keywords": ["Protection", "defensive", "guarded"]
+    },
+    {
+        "name": "The sword",
+        "meaning": "Quest for truth. Compensation. A destructive power, sometimes.",
+        "tarotSubstitute": "Queen of Diamonds",
+        "message": "Symbol of truth and power. When you can make progress with something just as desired. If what you say is true, the highest reward will be obtained. If what I have sown is truth, the highest harvest will be obtained.",
+        "warning": "However, hurting someone and every other wicked scheme can never utilize power.",
+        "guardian": "Sun",
+        "attribute": "Fire",
+        "keywords": ["Compensation", "destructive", "double-edged"]
+    },
+    {
+        "name": "The wood",
+        "meaning": "Symbolizing individual growth and development.",
+        "tarotSubstitute": "King of Diamonds",
+        "message": "Steady growth and/or development. Obtain trust in interpersonal relationships and connect with deep bonds. Talent and ability shine in future months and there is a lot of admiration to receive.",
+        "warning": "This is surely a favorable time to lose your original intentions, don't. If you get too caught up in the moment, the things which you built with much effort will become spoiled.",
+        "guardian": "Moon",
+        "attribute": "Water",
+        "keywords": ["Growth", "nurture", "fertility"]
     }
 ]
