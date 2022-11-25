@@ -1,6 +1,8 @@
 require('dotenv').config()
-import { server } from "./config/server";
+import app from "./models/Server";
 
 const port = process.env.PORT;
 
-server(port);
+app.listen(port, () => {
+    console.log(`Clow reading app listening on port ${port}`);
+});

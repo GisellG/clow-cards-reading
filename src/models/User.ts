@@ -12,6 +12,9 @@ class User {
 
     @prop()
     password: string
+
+    @prop()
+    googleConnected: boolean
 }
 
 const UserModel = getModelForClass(User);

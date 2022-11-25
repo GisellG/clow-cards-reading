@@ -1,5 +1,5 @@
 import { prop, getModelForClass } from "@typegoose/typegoose";
-import { Mixed, ObjectId } from "mongoose";
+import mongoose from "mongoose";
 
 class Card {
     @prop()
@@ -8,11 +8,8 @@ class Card {
     @prop()
     guardian: string
 
-    @prop()
-    id: ObjectId
-
-    @prop()
-    keywords: Mixed
+    @prop({ type: String, required: true, default: [] })
+    keywords: mongoose.Types.Array<string>;
 
     @prop()
     meaning: string
