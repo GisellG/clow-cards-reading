@@ -1,5 +1,5 @@
 require('dotenv').config()
-import app from "./models/Server";
+import app from "./src/models/Server";
 
 const port = process.env.PORT;
 

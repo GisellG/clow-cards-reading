@@ -21,8 +21,26 @@ describe("Clow Cards fortune reading method", () => {
             response = await request(app).get('/api/clow-cards/').send();
         });
 
-        it('route wors', async () => {
+        it('route works', async () => {
             expect(response.status).toBe(200);
         });
-    })
+    });
+
+    describe("GET /api/user/", () => {
+        let response: any;
+
+        beforeEach(async () => {
+            response = await request(app).post('/api/user/').send({
+                "firstName": "Maximiliano",
+                "lastName": "Quesito",
+                "email": "maximiliano.con.quesito@testmail.me",
+                "password": "max123",
+                "googleConnected": false
+            });
+        });
+
+        it('route works', async () => {
+            expect(response.status).toBe(200);
+        });
+    });
 });

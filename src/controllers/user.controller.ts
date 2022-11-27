@@ -1,17 +1,15 @@
-import { User } from "../types";
+import { User } from "../../types";
+import Express from "express";
 import UserModel from "../models/User";
 
-export const getUserById = async (id: any): Promise<any> => {
-    const userById: User | null = await UserModel.findById(id);
-
-    return userById;
-}
-
-export const createNewUser = async (body: any) => {
-    const newUser: any = body;
+export const createNewUser = async (req: Express.Request, res: Express.Response) => {
+    const newUser: User = req.body;
     const user = new UserModel(newUser);
 
     await user.save();
 
-    return user;
+    return res.status(200).json({
+        msg: "ok",
+        data: user
+    });
 }

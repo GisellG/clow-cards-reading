@@ -1,4 +1,4 @@
-import { ClowCards } from "../types";
+import { ClowCards } from "../../types";
 import Express from "express";
 import CardModel from "../models/Card";
 
